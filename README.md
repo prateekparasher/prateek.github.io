@@ -1,5 +1,5 @@
 ## Exploring Airbnb data of DUBLIN
-Udacity project analyzing Airbnb data of NYC and using machine learning to try predict price.
+Udacity project analyzing Airbnb data of Dublin and using machine learning to try predict price.
 
 ## Installations
 The project is done in Jupyter Notebook (Anaconda). Pyton 3.6.
