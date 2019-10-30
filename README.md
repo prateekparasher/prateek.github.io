@@ -18,7 +18,7 @@ How Neighbourhood Analysis help us to find good accomdation?
 
 ## Summary
 The analysis was strictly based on quantitative features in the dataset i.e. possibly excluding a lot of important features. I only compared most popular areas of Dublin versus the least popular &  pricing fluctuate over the seasonal periods with Neighbourhood Analysis
-I found that features regarding pricing fluctuate is very important in explaining the price. I also concluded that in order to get better results using the algorithms Linear Regression and Random Forest I should have put in more features.
+I found that features regarding pricing fluctuate is very important in explaining the price. I also concluded that in order to get better results we could use the algorithms Linear Regression and Random Forest I should have put in more features but we got our analysis just clean and analytics the data.
 
 
 https://medium.com/@prateekparasher10/a-data-science-blog-post-of-dublin-airbnb-data-follows-the-crisp-dm-process-in-finding-our-806360687e57
